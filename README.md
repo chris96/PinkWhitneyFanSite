@@ -2,6 +2,8 @@
 
 A fan site for Pink Whitney with a Fort Lauderdale spring break aesthetic.
 
+I built this for Mikayla Crider and her love for pink whitney
+
 ## Stack
 
 - Next.js (App Router)
