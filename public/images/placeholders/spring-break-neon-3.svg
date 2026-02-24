@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0" stop-color="#10173E" />
+      <stop offset="1" stop-color="#D7268A" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)" />
+  <rect x="240" y="240" width="190" height="410" rx="18" fill="#5CE0FF" opacity="0.55" />
+  <rect x="500" y="170" width="190" height="480" rx="18" fill="#FF72C6" opacity="0.6" />
+  <rect x="760" y="220" width="190" height="430" rx="18" fill="#FFF" opacity="0.35" />
+  <rect x="1020" y="150" width="190" height="500" rx="18" fill="#FF72C6" opacity="0.58" />
+  <text x="800" y="790" fill="#FFE4F3" font-family="Arial" font-size="58" text-anchor="middle">NEON WAVE PLACEHOLDER</text>
+</svg>

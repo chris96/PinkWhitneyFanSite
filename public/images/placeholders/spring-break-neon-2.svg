@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="g" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#001935" />
+      <stop offset="1" stop-color="#A11862" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)" />
+  <path d="M0 620C220 500 420 730 620 620C780 530 970 500 1160 590C1340 680 1490 640 1600 570V900H0V620Z" fill="#FF63B9" opacity="0.55"/>
+  <text x="800" y="170" fill="#F5DEEE" font-family="Arial" font-size="64" text-anchor="middle">SUNSET RALLY</text>
+</svg>
